@@ -17,6 +17,16 @@
 |Sam|http://blog.isming.me/archives/|
 |麦田|http://www.aitinan.com/|
 |Xiaoke|http://blog.mcxiaoke.com/|
+|孤傲苍狼|http://www.cnblogs.com/xdp-gacl/|
+|鸿洋|http://blog.csdn.net/lmj623565791/|
+|liangruijun|http://blog.liangruijun.com/|
+|ZeeCoder|zcheng.ren|
+|罗道文的私房菜|luodw.cc|
+|匆匆那年|ehlxr.me|
+|Michael翔|http://michaelxiang.me/|
+|严振杰|http://blog.csdn.net/yanzhenjie1003|
+
+
 
 
 
