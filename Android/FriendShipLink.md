@@ -37,7 +37,9 @@
 |雷霄骅|http://blog.csdn.net/leixiaohua1020?viewmode=contents|音视频|
 |郭霖|http://blog.csdn.net/guolin_blog?viewmode=contents|Android open_dev|
 |任玉刚|http://blog.csdn.net/singwhatiwanna/article/list/1  https://github.com/singwhatiwanna  www.renyugang.cn|Android高级 Android开发艺术探索|
-
+|CameloeAnthony|http://www.jianshu.com/users/44872eaffa8b/latest_articles|Android|
+|Wing_Li|http://www.jianshu.com/users/320f9e8f7fc9/latest_articles|Android|
+|CyrilKing|http://blog.csdn.net/zhimingshangyan?viewmode=contents|Android|
 
 
 
