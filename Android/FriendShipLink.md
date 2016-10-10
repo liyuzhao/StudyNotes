@@ -36,7 +36,7 @@
 |feixiang_john|http://blog.csdn.net/feixiang_john?viewmode=contents||
 |雷霄骅|http://blog.csdn.net/leixiaohua1020?viewmode=contents|音视频|
 |郭霖|http://blog.csdn.net/guolin_blog?viewmode=contents|Android open_dev|
-|任玉刚|http://blog.csdn.net/singwhatiwanna/article/list/1|Android高级 Android开发艺术探索|
+|任玉刚|http://blog.csdn.net/singwhatiwanna/article/list/1  https://github.com/singwhatiwanna  www.renyugang.cn|Android高级 Android开发艺术探索|
 
 
 
