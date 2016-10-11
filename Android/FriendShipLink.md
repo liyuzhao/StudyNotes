@@ -42,9 +42,9 @@
 |CyrilKing|http://blog.csdn.net/zhimingshangyan?viewmode=contents|Android|
 |猴子搬来的救兵Castiel|http://blog.csdn.net/mynameishuangshuai?viewmode=contents|双进程守护|
 |Keegan小钢|http://keeganlee.me/post/practice/20160807|Android and iOS|
-
-
-
+|梁桂钊|http://blog.720ui.com/tags/MySQL/|MySQL|
+|旋转跳跃就团灭的wing|http://blog.csdn.net/wingichoy?viewmode=contents|Android|
+|老胡|http://ittiger.cn/tags/smack/|Openfire|
 
 
 
