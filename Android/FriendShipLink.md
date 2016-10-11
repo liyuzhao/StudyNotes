@@ -40,7 +40,8 @@
 |CameloeAnthony|http://www.jianshu.com/users/44872eaffa8b/latest_articles|Android|
 |Wing_Li|http://www.jianshu.com/users/320f9e8f7fc9/latest_articles|Android|
 |CyrilKing|http://blog.csdn.net/zhimingshangyan?viewmode=contents|Android|
-
+|猴子搬来的救兵Castiel|http://blog.csdn.net/mynameishuangshuai?viewmode=contents|双进程守护|
+|Keegan小钢|http://keeganlee.me/post/practice/20160807|Android and iOS|
 
 
 
