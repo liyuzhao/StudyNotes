@@ -45,7 +45,11 @@
 |梁桂钊|http://blog.720ui.com/tags/MySQL/|MySQL|
 |旋转跳跃就团灭的wing|http://blog.csdn.net/wingichoy?viewmode=contents|Android|
 |老胡|http://ittiger.cn/tags/smack/|Openfire|
-
-
-
+|cpf2016|http://blog.csdn.net/cpf2016/article/list/5|java|
+|51blog|http://2343338.blog.51cto.com/2333338/p-2|音视频|
+|心上秋思|http://cpper.info/|cpp|
+|心所向|http://blog.csdn.net/cyloser?viewmode=contents|c++ & cef|
+|lelexin|http://blog.csdn.net/qiurisuixiang?viewmode=contents|qt|
+|混沌|http://blog.csdn.net/a379039233/article/list/2|qt|
+|欧阳鹏|http://blog.csdn.net/qq446282412/article/list/5|Android 进阶|
 
