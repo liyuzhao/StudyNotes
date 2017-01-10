@@ -52,4 +52,12 @@
 |lelexin|http://blog.csdn.net/qiurisuixiang?viewmode=contents|qt|
 |混沌|http://blog.csdn.net/a379039233/article/list/2|qt|
 |欧阳鹏|http://blog.csdn.net/qq446282412/article/list/5|Android 进阶|
+|天盟|http://blog.csdn.net/u014077888/|Android & iOS|
+|清风小阁|http://blog.csdn.net/huang_xw/article/list/7|C++ & Java|
+|wangrunmin|http://blog.csdn.net/wangrunmin/article/list/3|qt|
+|HaHack|http://hahack.com/| git & webp|
+|Java并发编程|http://ifeve.com/author/_jack/|java 并发|
+|mingz2013|http://blog.csdn.net/oMingZi12345678/article/list/4|Android & python|
+
+
 
