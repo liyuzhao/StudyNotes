@@ -58,6 +58,9 @@
 |HaHack|http://hahack.com/| git & webp|
 |Java并发编程|http://ifeve.com/author/_jack/|java 并发|
 |mingz2013|http://blog.csdn.net/oMingZi12345678/article/list/4|Android & python|
+|刘桂林|http://blog.csdn.net/qq_26787115/article/list/4|Android|
+|企鹅|http://blog.csdn.net/menggucaoyuan?viewmode=contents|C++ & pb|
+
 
 
 
