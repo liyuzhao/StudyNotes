@@ -60,7 +60,7 @@
 |mingz2013|http://blog.csdn.net/oMingZi12345678/article/list/4|Android & python|
 |刘桂林|http://blog.csdn.net/qq_26787115/article/list/4|Android|
 |企鹅|http://blog.csdn.net/menggucaoyuan?viewmode=contents|C++ & pb|
-
-
+|bang's blog|http://blog.cnbang.net/tech/3386/|iOS|
+|feicong's blog|https://feicong.github.io/|android&ios软件安全|
 
 
