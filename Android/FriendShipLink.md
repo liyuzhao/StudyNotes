@@ -64,6 +64,6 @@
 |feicong's blog|https://feicong.github.io/|android&ios软件安全|
 |小鱼周玲宇|http://blog.csdn.net/u010127917?viewmode=contents| iOS基础|
 |huayucong|http://blog.csdn.net/huayucong/article/list/5| 树莓派&python|
-
+|weishu|http://weishu.me/|Android|
 
 
