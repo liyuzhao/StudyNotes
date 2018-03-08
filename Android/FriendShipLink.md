@@ -68,6 +68,10 @@
 |Bruce.yang|http://blog.csdn.net/morixinguan/article|C++ & Android|
 |尼古拉斯-赵四|http://www.wjdiankong.cn/| Android逆向|
 |alexzh|http://alexzh.com/| Android |
+|wangshubo|http://blog.csdn.net/wangshubo1989/article/list/4| qt & c++ & go|
+|JackChan|http://blog.csdn.net/axi295309066/article/list/3|kotlin & android|
+|田彬彬 it说|http://www.star-lai.cn/| iOS |
+|安杰-随迹|http://cherylgood.cn/|Java & Android & kotlin|
 
 
 
