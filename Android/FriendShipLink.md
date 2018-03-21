@@ -72,6 +72,9 @@
 |JackChan|http://blog.csdn.net/axi295309066/article/list/3|kotlin & android|
 |田彬彬 it说|http://www.star-lai.cn/| iOS |
 |安杰-随迹|http://cherylgood.cn/|Java & Android & kotlin|
+|Gityuan|http://gityuan.com/|Android系统源码|
+|LooperJing|https://www.jianshu.com/u/ce54e5c21032|Android系统和性能优化|
+|OkidoGreen|http://blog.csdn.net/z69183787/|Java Server|
 
 
 
