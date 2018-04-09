@@ -76,6 +76,7 @@
 |LooperJing|https://www.jianshu.com/u/ce54e5c21032|Android系统和性能优化|
 |OkidoGreen|http://blog.csdn.net/z69183787/|Java Server|
 |NULL|https://blog.csdn.net/lb377463323|JNI & OpenGL|
-|杰克庹庹|https://blog.csdn.net/qq\_33553515||
+|杰克庹庹|https://blog.csdn.net/qq_33553515|自定义View|
+|胡奚冰|https://www.jianshu.com/u/002f99a0df6b|kotlin & android|
 
 
