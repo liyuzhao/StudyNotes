@@ -83,5 +83,12 @@
 |wustor|https://www.jianshu.com/u/94dc45995a85|Android源码剖析|
 |半棵树|https://blog.csdn.net/banketree/article/list/2?|Android高级|
 |Android分类|https://android-arsenal.com/|Android|
+|blueshell07|https://blog.csdn.net/pengyan0812|Android逆向|
+|张行之|https://my.csdn.net/qq_33689414|大数据&Android&Java|
+|一去、二三里|https://blog.csdn.net/liang19890820|Qt&C++|
+|混沌|https://blog.csdn.net/a379039233|Qt&Java&VR|
+|炫彩灵感|https://blog.csdn.net/xuancailinggan/article/list/5?|自学Qt&Python|
+|踏莎行hyx|https://blog.csdn.net/u012234115/article/details/43764459|QT|
+
 
 
