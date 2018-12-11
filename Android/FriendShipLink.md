@@ -89,6 +89,6 @@
 |混沌|https://blog.csdn.net/a379039233|Qt&Java&VR|
 |炫彩灵感|https://blog.csdn.net/xuancailinggan/article/list/5?|自学Qt&Python|
 |踏莎行hyx|https://blog.csdn.net/u012234115/article/details/43764459|QT|
-
+|朝闻道|https://www.cnblogs.com/findumars/category/484909.html|Qt|
 
 
