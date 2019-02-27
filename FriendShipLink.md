@@ -90,5 +90,7 @@
 |炫彩灵感|https://blog.csdn.net/xuancailinggan/article/list/5?|自学Qt&Python|
 |踏莎行hyx|https://blog.csdn.net/u012234115/article/details/43764459|QT|
 |朝闻道|https://www.cnblogs.com/findumars/category/484909.html|Qt|
-
+|Scott|http://zealscott.com|Java后端|
+|床长人工智能教程|http://www.captainbed.net/|人工智能|
+|陈云峰|https://blog.csdn.net/feosun/|iOS|
 
