@@ -94,3 +94,6 @@
 |床长人工智能教程|http://www.captainbed.net/|人工智能|
 |陈云峰|https://blog.csdn.net/feosun/|iOS|
 |工匠若水|https://blog.csdn.net/yanbober|Android|
+|南窗云|https://www.jianshu.com/u/31e7119cc7ee|Android|
+|小雨|https://blog.csdn.net/xiaoyu_93|JNI|
+|幽雨雨幽|https://blog.csdn.net/ai2000ai/article/list/9?|音视频|
