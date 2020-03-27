@@ -101,6 +101,12 @@
 |Jhuster|http://jhuster.com/|Android&音视频&webrtc&直播|
 |越战越勇v|https://blog.csdn.net/liuweihui521/article/list/7?|WebRTC|
 |路痴的旅行|https://blog.csdn.net/u011857683/article/list/2?|计算机网络|
-|jiange_zh|https://blog.csdn.net/jiange_zh/article/list/6?|C++|
-|yangxi_001|https://blog.csdn.net/yangxi_pekin/article/list/1?|Android|
+|jiange\_zh|https://blog.csdn.net/jiange_zh/article/list/6?|C++|
+|yangxi\_001|https://blog.csdn.net/yangxi_pekin/article/list/1?|Android|
 |似乎已不再年轻|https://blog.csdn.net/zgyulongfei/article/list/2?|Android音视频|
+|smallest\_one|https://www.jianshu.com/u/3a66dddbdb3d|音视频&FFmpeg|
+|24k纯开源|https://www.cnblogs.com/csuftzzk/archive/2013/01/25/2877283.html|Qt|
+|玉|https://juejin.im/user/595d9e1c6fb9a06bbd6f7afe|Electron & React|
+|MachineLP学习笔记|https://blog.csdn.net/u014365862/article/details/104601545|OpenCV|
+
+
