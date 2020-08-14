@@ -109,5 +109,5 @@
 |玉|https://juejin.im/user/595d9e1c6fb9a06bbd6f7afe|Electron & React|
 |MachineLP学习笔记|https://blog.csdn.net/u014365862/article/details/104601545|OpenCV|
 |大灰狼的小绵羊哥哥的博客|https://blog.csdn.net/sinat_17775997/category_6352631.html|Rect&Flutter|
-
-
+|ddssingsong|https://blog.csdn.net/u011077027/article/details/93240811|C++&NDK|
+|莫然|https://blog.csdn.net/huwenfeng_2011/article/details/43485225|OpenFire|
