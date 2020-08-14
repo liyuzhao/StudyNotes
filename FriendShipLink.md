@@ -3,8 +3,8 @@
 
 |作者|网站|主要内容|
 |:--:|:--:|:--:|
-|吴小龙|http://wuxiaolong.me||
-|一只正在爬坡的Java狗|http://nibnait.com||
+|吴小龙|http://wuxiaolong.me|Android|
+|~~一只正在爬坡的Java狗~~|~~http://nibnait.com~~||
 |EZLippi-浮生志|http://www.ezlippi.com||
 |Qisen Tang|http://www.woaitqs.cc||
 |宅男潇涧|http://hujiaweibujidao.github.io||
