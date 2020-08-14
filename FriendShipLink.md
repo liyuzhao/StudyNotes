@@ -5,11 +5,10 @@
 |:--:|:--:|:--:|
 |吴小龙|http://wuxiaolong.me|Android|
 |~~一只正在爬坡的Java狗~~|~~http://nibnait.com~~||
-|EZLippi-浮生志|http://www.ezlippi.com||
-|Qisen Tang|http://www.woaitqs.cc||
-|宅男潇涧|http://hujiaweibujidao.github.io||
-|w4lle | http://w4lle.github.io||
-|D_clock爱吃葱花 |http://www.jianshu.com/p/79604c3ddcae||
+|EZLippi-浮生志|http://www.ezlippi.com|Java&Android|
+|Qisen Tang|http://www.woaitqs.cc|Android&Kotlin|
+|w4lle | http://w4lle.github.io http://w4lle.com/|Flutter|
+|D_clock爱吃葱花 |https://www.zhihu.com/people/d_clock/posts|Android|
 |张兴业|http://blog.csdn.net/xyz_lmn/article/details/6966259||
 |mcxiaoke|http://blog.mcxiaoke.com||
 |谷歌的小弟|http://blog.csdn.net/lfdfhl/article/details/52415390||
