@@ -102,3 +102,5 @@
 |大灰狼的小绵羊哥哥的博客|https://blog.csdn.net/sinat_17775997/category_6352631.html|Rect&Flutter|
 |ddssingsong|https://blog.csdn.net/u011077027/article/details/93240811|C++&NDK|
 |莫然|https://blog.csdn.net/huwenfeng_2011/article/details/43485225|OpenFire|
+|zhengtianzuo|https://blog.csdn.net/zhengtianzuo06|Qt|
+|苏南大叔|https://newsn.net/category/electron/|Electron|
