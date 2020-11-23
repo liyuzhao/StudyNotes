@@ -106,3 +106,5 @@
 |苏南大叔|https://newsn.net/category/electron/|Electron|
 |LearnOpenGL|https://learnopengl-cn.github.io/|OpenGL|
 |俊俊~|https://blog.csdn.net/qq_40602000/article/list/1|Qt|
+|LeBron\_Six|https://smuyyh.top/|Android|
+|公孙二狗|https://qtdebug.com/qtbook-qss/|qt-qss|
