@@ -112,4 +112,5 @@
 |草上爬|https://blog.csdn.net/caoshangpa/article/details/80107457|C++&Webrtc+Qt|
 |itas109|https://itas109.blog.csdn.net/|C++&NodeJs|
 |xddwz|https://blog.csdn.net/xddwz/article/list/3|OpenCV|
-
+|程序员欣宸|https://xinchen.blog.csdn.net/article/list/1|Java&OpenCV|
+|qijingwang|https://blog.csdn.net/qijingwang/|Java&Kotlin|
