@@ -114,3 +114,4 @@
 |xddwz|https://blog.csdn.net/xddwz/article/list/3|OpenCV|
 |程序员欣宸|https://xinchen.blog.csdn.net/article/list/1|Java&OpenCV|
 |qijingwang|https://blog.csdn.net/qijingwang/|Java&Kotlin|
+|narkang|https://blog.csdn.net/qq_18242391/article/details/96430414|Java&Kotlin|
