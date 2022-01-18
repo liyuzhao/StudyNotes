@@ -115,3 +115,4 @@
 |程序员欣宸|https://xinchen.blog.csdn.net/article/list/1|Java&OpenCV|
 |qijingwang|https://blog.csdn.net/qijingwang/|Java&Kotlin|
 |narkang|https://blog.csdn.net/qq_18242391/article/details/96430414|Java&Kotlin|
+|yxqq378287007|https://blog.csdn.net/oqqyx1234567|Qt&Go|
